@@ -69,6 +69,6 @@ SyntharaOS thrives on collaboration. If you’d like to contribute:
 
 Review the Contribution Guidelines.
 Submit feature requests or bug reports in Issues.
-Join our community on Discord or Slack.
+Join our community on [Discord](https://discord.gg/Gmv8TECE).
 ## **License**
 SyntharaOS is released under the MIT License. See LICENSE for details.
