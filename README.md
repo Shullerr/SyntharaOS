@@ -45,3 +45,30 @@ SyntharaOS is more than an OS; it’s a living assistant, a gaming powerhouse, a
 1. Clone the repository:  
    ```bash
    git clone https://github.com/SyntharaOS/Synthara.git
+2. Install build dependencies (see Build Guide).
+3. Compile the kernel and deploy to supported hardware or virtual machine.
+4. Contribute by creating new AI models or optimizing system components.
+
+## **How It Works**
+AI Kernel: Manages system resources, user interactions, and parallel task execution efficiently.
+Task Manager: Instead of apps, tasks are directly assigned to the OS, e.g., “Prepare a presentation” or “Check emails.”
+Gaming Engine: Supports direct integration of AAA mobile and PC games for native play.
+
+## **Roadmap**
+### **v0.1 (Pre-Alpha):**
+Initial AI kernel development.
+Basic task management and interaction.
+### **v0.2 (Alpha):**
+Support for hybrid on-device/cloud AI processing.
+Experimental gaming support.
+### **v1.0 (Beta):**
+Fully functional AI-driven OS with multi-tasking, gaming, and customization.
+
+## **Contributing**
+SyntharaOS thrives on collaboration. If you’d like to contribute:
+
+Review the Contribution Guidelines.
+Submit feature requests or bug reports in Issues.
+Join our community on Discord or Slack.
+## **License**
+SyntharaOS is released under the MIT License. See LICENSE for details.
