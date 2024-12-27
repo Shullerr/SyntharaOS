@@ -19,6 +19,19 @@ SyntharaOS is more than an OS; it’s a living assistant, a gaming powerhouse, a
 
 ---
 
+### **Supported Devices**
+SyntharaOS is designed to work seamlessly across a range of devices:
+
+- **Mobile Devices**: SyntharaOS will run on smartphones and tablets, providing an intuitive AI-driven experience on portable devices. The OS adapts to the capabilities of the hardware, offering powerful multitasking and resource management for mobile platforms.
+  
+- **Laptops and Desktops**: On more powerful devices, like laptops and desktop computers, SyntharaOS will unlock more advanced features, such as enhanced performance for multitasking, complex AI models, and integration with productivity tools.
+
+- **Wearables & Smart Home Devices**: SyntharaOS will be capable of connecting with wearable devices (smartwatches, fitness trackers) and smart home devices (smart thermostats, lights, security systems), providing a unified experience across all connected devices. This ensures that users can manage and interact with their ecosystem seamlessly.
+
+The OS adapts its capabilities based on the hardware, ensuring optimal performance regardless of the device used.
+
+---
+
 ## **Project Goals**
 1. **From-Scratch Kernel**: A custom kernel designed to fully support AI-driven architecture, optimized for performance, scalability, and parallelism.  
 2. **User-Centric Design**: Prioritizing simplicity and intuitive interaction, removing complexity for end users.  
