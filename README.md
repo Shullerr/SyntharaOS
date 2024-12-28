@@ -4,14 +4,14 @@
 ---
 
 ## **Introduction**  
-Welcome to **NoxyOS**, the world’s first AI-first operating system, built from the ground up to harness the full potential of artificial intelligence. NoxyOS reimagines the user experience by eliminating traditional apps, enabling seamless task management, and dynamically adapting to user needs—all powered by a cutting-edge AI kernel and on-device intelligence.  
+Welcome to **NoxuOS**, the world’s first AI-first operating system, built from the ground up to harness the full potential of artificial intelligence. NoxuOS reimagines the user experience by eliminating traditional apps, enabling seamless task management, and dynamically adapting to user needs—all powered by a cutting-edge AI kernel and on-device intelligence.  
 
-NoxyOS is more than an OS; it’s a living assistant, a gaming powerhouse, and a secure, scalable platform for the future of personal computing.
+NoxuOS is more than an OS; it’s a living assistant, a gaming powerhouse, and a secure, scalable platform for the future of personal computing.
 
 ---
 
 ## **Key Features**
-- **AI-Driven Core**: NoxyOS is powered by an innovative AI kernel, offering real-time decision-making and task optimization.
+- **AI-Driven Core**: NoxuOS is powered by an innovative AI kernel, offering real-time decision-making and task optimization.
 - **App-Free Ecosystem**: Users interact with AI directly to complete tasks, removing the need for traditional apps.  
 - **Hybrid AI Architecture**: Combines on-device intelligence for privacy and speed with optional cloud support for heavy processing.  
 - **Gaming Ready**: Seamless integration of popular games, ensuring high-performance experiences with no interruptions.  
@@ -20,13 +20,13 @@ NoxyOS is more than an OS; it’s a living assistant, a gaming powerhouse, and a
 ---
 
 ### **Supported Devices**
-NoxyOS is designed to work seamlessly across a range of devices:
+NoxuOS is designed to work seamlessly across a range of devices:
 
-- **Mobile Devices**: NoxyOS will run on smartphones and tablets, providing an intuitive AI-driven experience on portable devices. The OS adapts to the capabilities of the hardware, offering powerful multitasking and resource management for mobile platforms.
+- **Mobile Devices**: NoxuOS will run on smartphones and tablets, providing an intuitive AI-driven experience on portable devices. The OS adapts to the capabilities of the hardware, offering powerful multitasking and resource management for mobile platforms.
   
-- **Laptops and Desktops**: On more powerful devices, like laptops and desktop computers, NoxyOS will unlock more advanced features, such as enhanced performance for multitasking, complex AI models, and integration with productivity tools.
+- **Laptops and Desktops**: On more powerful devices, like laptops and desktop computers, NoxuOS will unlock more advanced features, such as enhanced performance for multitasking, complex AI models, and integration with productivity tools.
 
-- **Wearables & Smart Home Devices**: NoxyOS will be capable of connecting with wearable devices (smartwatches, fitness trackers) and smart home devices (smart thermostats, lights, security systems), providing a unified experience across all connected devices. This ensures that users can manage and interact with their ecosystem seamlessly.
+- **Wearables & Smart Home Devices**: NoxuOS will be capable of connecting with wearable devices (smartwatches, fitness trackers) and smart home devices (smart thermostats, lights, security systems), providing a unified experience across all connected devices. This ensures that users can manage and interact with their ecosystem seamlessly.
 
 The OS adapts its capabilities based on the hardware, ensuring optimal performance regardless of the device used.
 
@@ -57,7 +57,7 @@ The OS adapts its capabilities based on the hardware, ensuring optimal performan
 ### **For Developers**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/NoxyOS/Noxy.git
+   git clone https://github.com/NoxuOS/Noxu.git
 2. Install build dependencies (see Build Guide).
 3. Compile the kernel and deploy to supported hardware or virtual machine.
 4. Contribute by creating new AI models or optimizing system components.
@@ -78,10 +78,10 @@ Experimental gaming support.
 Fully functional AI-driven OS with multi-tasking, gaming, and customization.
 
 ## **Contributing**
-NoxyOS thrives on collaboration. If you’d like to contribute:
+NoxuOS thrives on collaboration. If you’d like to contribute:
 
 Review the Contribution Guidelines.
 Submit feature requests or bug reports in Issues.
 Join our community on [Discord](https://discord.gg/kwE5MqYydh).
 ## **License**
-NoxyOS is released under the Apache 2.0 License. See LICENSE for details.
+NoxuOS is released under the Apache 2.0 License. See LICENSE for details.
