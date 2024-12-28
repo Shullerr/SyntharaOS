@@ -1,4 +1,4 @@
-SyntharaOS/
+NoxuOS/
 ├── README.md                   # Project overview, setup instructions, etc.
 ├── LICENSE                     # License file (e.g., MIT or Apache 2.0)
 ├── build/                       # Build scripts, automation files
